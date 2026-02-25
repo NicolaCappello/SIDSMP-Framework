@@ -1,0 +1,3 @@
+git add CITATION.cff
+git commit -m "Add CITATION metadata file"
+git push
