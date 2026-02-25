@@ -3,6 +3,7 @@
 **A Dynamical Framework for Memory, Prediction, and Subjective Emergence**
 
 [![Status](https://img.shields.io/badge/Status-Working_Paper-blue)](https://zenodo.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18770278.svg)](https://doi.org/10.5281/zenodo.18770278)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Overview
@@ -57,4 +58,8 @@ and saves the resulting plots in `validation/`.
 
 ## Zenodo
 
-A DOI will be attached to the GitHub release via Zenodo. Once available, it will be listed here.
+The archived release of this software is permanently available at:
+
+https://doi.org/10.5281/zenodo.18770278
+
+When citing this implementation, please reference the version-specific DOI above.
