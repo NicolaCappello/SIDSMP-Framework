@@ -1,3 +1,22 @@
-git add CITATION.cff
-git commit -m "Add CITATION metadata file"
-git push
+cff-version: 1.2.0
+title: "SIDSMP Toy Model: Reproducible Validation Suite"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Cappello
+    given-names: Nicola
+doi: 10.5281/zenodo.18770278
+version: v1.0.1
+date-released: 2026-02-25
+license: MIT
+repository-code: "https://github.com/NicolaCappello/SIDSMP-Framework"
+abstract: >
+  This repository contains the reference implementation of the
+  SIDSMP (State-Dependent Informational Substitution in Memory and Prediction)
+  toy model.
+
+  It provides a fully reproducible validation suite including regime variation,
+  sensitivity analysis, phase-space diagnostics, and automated figure generation.
+
+  The implementation enables independent verification of the dynamical regimes
+  described in the associated theoretical framework.
